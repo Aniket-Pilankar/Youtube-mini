@@ -2,8 +2,12 @@
 
 A YouTube mini app to search and play youtube videos
  
+Home Page
 ![Youtube-Mini-webite](https://github.com/Aniket-Pilankar/Youtube-mini/blob/main/Youtube-mini%20Images/1.jpg)
+
+Video description page
 ![Youtube-Mini-webite](https://github.com/Aniket-Pilankar/Youtube-mini/blob/main/Youtube-mini%20Images/2.jpg)
+
 ![Youtube-Mini-webite](https://github.com/Aniket-Pilankar/Youtube-mini/blob/main/Youtube-mini%20Images/3.jpg)
 
 ## Deployment
